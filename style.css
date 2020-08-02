@@ -1,0 +1,19 @@
+img{
+    width: 100% !important;
+    height: 40% !important;
+}
+.cardHeight{
+    height: 100%;
+}
+#badge{
+    background-color: green;
+    border-radius: 5px;
+    padding: 0 4px 0 4px;
+    color: white;
+}
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 60pt;
+    text-align: center;
+    line-height: 60pt;
+}
